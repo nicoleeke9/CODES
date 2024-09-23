@@ -1,0 +1,28 @@
+Welcome to the Animal Game
+I am going to guess which animal you're thinking about. Are you ready?
+Press any key to continue . . .
+Let's goooo!
+Live on land? y/n
+n
+Has fins? y/n
+y
+Shark y/n
+y
+I win
+Okay seems like we've reached the end of our guessing game, would you like to play again?
+y
+Welcome to the Animal Game
+I am going to guess which animal you're thinking about. Are you ready?
+Press any key to continue . . .
+Let's goooo!
+Live on land? y/n
+y
+Lizard y/n
+n
+I give up. What animal is it? Dog
+What question can differentiate a Dog from a Lizard? Does it have scales?
+For a Dog, what would the answer to that question be? (y/n): n
+Alright! Thank you so much for Playing
+Okay seems like we've reached the end of our guessing game, would you like to play again?
+n
+BYE!!!!
